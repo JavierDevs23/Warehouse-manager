@@ -1,0 +1,7 @@
+{
+  "name": "warehouse-manager",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
