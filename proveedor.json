@@ -2,7 +2,7 @@
     {
       "nombre": "Proveedor 1",
       "direccion": "Dirección del Proveedor 1",
-      "teléfono": "Teléfono del Proveedor 1",
+      "telefono": "Teléfono del Proveedor 1",
       "productos": ["Producto A", "Producto B", "Producto C"]
     },
     {
@@ -18,21 +18,21 @@
       "productos": ["Producto P", "Producto Q", "Producto R"]
     },
     {
-        "nombre": "Proveedor 1",
-        "direccion": "Dirección del Proveedor 1",
-        "teléfono": "Teléfono del Proveedor 1",
-        "productos": ["Producto A", "Producto B", "Producto C"]
-      },
-      {
-        "nombre": "Proveedor 2",
-        "direccion": "Dirección del Proveedor 2",
-        "telefono": "Teléfono del Proveedor 2",
-        "productos": ["Producto X", "Producto Y"]
-      },
-      {
-        "nombre": "Proveedor 3",
-        "direccion": "Dirección del Proveedor 3",
-        "telefono": "Teléfono del Proveedor 3",
-        "productos": ["Producto P", "Producto Q", "Producto R"]
-      }
+      "nombre": "Proveedor 1",
+      "direccion": "Dirección del Proveedor 1",
+      "telefono": "Teléfono del Proveedor 1",
+      "productos": ["Producto A", "Producto B", "Producto C"]
+    },
+    {
+      "nombre": "Proveedor 2",
+      "direccion": "Dirección del Proveedor 2",
+      "telefono": "Teléfono del Proveedor 2",
+      "productos": ["Producto X", "Producto Y"]
+    },
+    {
+      "nombre": "Proveedor 3",
+      "direccion": "Dirección del Proveedor 3",
+      "telefono": "Teléfono del Proveedor 3",
+      "productos": ["Producto P", "Producto Q", "Producto R"]
+    }
 ]
