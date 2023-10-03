@@ -1,0 +1,20 @@
+[
+    {
+      "nombre": "Proveedor 1",
+      "dirección": "Dirección del Proveedor 1",
+      "teléfono": "Teléfono del Proveedor 1",
+      "productos": ["Producto A", "Producto B", "Producto C"]
+    },
+    {
+      "nombre": "Proveedor 2",
+      "dirección": "Dirección del Proveedor 2",
+      "teléfono": "Teléfono del Proveedor 2",
+      "productos": ["Producto X", "Producto Y"]
+    },
+    {
+      "nombre": "Proveedor 3",
+      "dirección": "Dirección del Proveedor 3",
+      "teléfono": "Teléfono del Proveedor 3",
+      "productos": ["Producto P", "Producto Q", "Producto R"]
+    }
+]
