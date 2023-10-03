@@ -3,7 +3,21 @@
       "nombre": "Proveedor 1",
       "direccion": "Dirección del Proveedor 1",
       "telefono": "Teléfono del Proveedor 1",
-      "productos": ["Producto A", "Producto B", "Producto C"]
+      "productos": ["Nescafé: Café instantáneo.",
+      "Kit Kat: Barra de chocolate y galleta.",
+      "Nestea: Bebida de té.",
+      "Nestlé Crunch: Barra de chocolate crujiente.",
+      "Gerber: Alimentos para bebés y productos para la nutrición infantil.",
+      "Nestlé Pure Life: Agua embotellada.",
+      "Maggi: Productos de condimentos y sopas.",
+      "Nesquik: Polvo de cacao y bebidas de chocolate.",
+      "Carnation: Leche condensada y productos lácteos.",
+      "Nestlé Toll House: Chips de chocolate y productos para hornear.",
+      "Milo: Bebida de chocolate en polvo y productos relacionados.",
+      "Purina: Productos para mascotas, incluyendo alimentos para perros y gatos.",
+      "Häagen-Dazs: Helado premium.",
+      "Coffee-Mate: Crema para café.",
+      "Stouffer's: Comidas congeladas y platos preparados."]
     },
     {
       "nombre": "Proveedor 2",
