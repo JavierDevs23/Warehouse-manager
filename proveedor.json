@@ -1,52 +1,92 @@
 [
     {
-      "nombre": "Proveedor 1",
-      "direccion": "Dirección del Proveedor 1",
-      "telefono": "Teléfono del Proveedor 1",
-      "productos": ["Nescafé: Café instantáneo.",
-      "Kit Kat: Barra de chocolate y galleta.",
-      "Nestea: Bebida de té.",
-      "Nestlé Crunch: Barra de chocolate crujiente.",
-      "Gerber: Alimentos para bebés y productos para la nutrición infantil.",
-      "Nestlé Pure Life: Agua embotellada.",
-      "Maggi: Productos de condimentos y sopas.",
-      "Nesquik: Polvo de cacao y bebidas de chocolate.",
-      "Carnation: Leche condensada y productos lácteos.",
-      "Nestlé Toll House: Chips de chocolate y productos para hornear.",
-      "Milo: Bebida de chocolate en polvo y productos relacionados.",
-      "Purina: Productos para mascotas, incluyendo alimentos para perros y gatos.",
-      "Häagen-Dazs: Helado premium.",
-      "Coffee-Mate: Crema para café.",
-      "Stouffer's: Comidas congeladas y platos preparados."]
+      "nombre": "Nestle Chile",
+      "direccion": "Valparaiso",
+      "telefono": "(32) 265 0100",
+      "productos": [
+        "Nescafé",
+        "Kit Kat",
+        "Nestea",
+        "Nestlé Crunch",
+        "Gerber",
+        "Nestlé",
+        "Maggi",
+        "Nesquik",
+        "Carnation",
+        "Nestlé Toll House",
+        "Milo",
+        "Purina",
+        "Häagen-Dazs",
+        "Coffee-Mate",
+        "Stouffer's"
+      ]
     },
     {
-      "nombre": "Proveedor 2",
-      "direccion": "Dirección del Proveedor 2",
-      "telefono": "Teléfono del Proveedor 2",
-      "productos": ["Producto X", "Producto Y"]
+      "nombre": "Carozzi",
+      "direccion": "Cam. Internacional 2825",
+      "telefono": "(32) 227 6000",
+      "productos": [
+        "Pastas Carozzi",
+        "Salsas para Pastas Carozzi",
+        "Arroz Carozzi",
+        "Harinas Carozzi",
+        "Aceites Carozzi",
+        "Conservas Carozzi",
+        "Lácteos Carozzi",
+        "Sopas Carozzi",
+        "Mermeladas y Confites Carozzi",
+        "Cereales Carozzi",
+        "Alimentos para Bebés Carozzi",
+        "Galletas y Snacks Carozzi",
+        "Bebidas Carozzi"]
     },
     {
-      "nombre": "Proveedor 3",
-      "direccion": "Dirección del Proveedor 3",
-      "telefono": "Teléfono del Proveedor 3",
-      "productos": ["Producto P", "Producto Q", "Producto R"]
+      "nombre": "Soprole",
+      "direccion": "Placilla, Valparaiso",
+      "telefono": "4365000",
+      "productos": [
+        "Leche Soprole",
+        "Yogur Soprole",
+        "Quesos Soprole",
+        "Mantequilla Soprole",
+        "Helados Soprole",
+        "Batidos Soprole",
+        "Jugos Naturales Soprole",
+        "Cremas y Postres Soprole",
+        "Leche Condensada Soprole",
+        "Leche Evaporada Soprole",
+        "Productos para Bebés Soprole",
+        "Leches Vegetales Soprole"
+      ]
     },
     {
-      "nombre": "Proveedor 1",
-      "direccion": "Dirección del Proveedor 1",
-      "telefono": "Teléfono del Proveedor 1",
-      "productos": ["Producto A", "Producto B", "Producto C"]
+      "nombre": "Aconcagua Foods",
+      "direccion": "Santiago, Región Metropolitana",
+      "telefono": "(2) 2600 9000",
+      "productos": [
+        "Alimentos enlatados Aconcagua",
+        "Productos congelados Aconcagua",
+        "Salsas Aconcagua"
+      ]
     },
     {
-      "nombre": "Proveedor 2",
-      "direccion": "Dirección del Proveedor 2",
-      "telefono": "Teléfono del Proveedor 2",
-      "productos": ["Producto X", "Producto Y"]
+      "nombre": "CCU (Compañía Cervecerías Unidas)",
+      "direccion": "Santiago, Región Metropolitana",
+      "telefono": "(2) 2500 5000",
+      "productos": [
+        "Cerveza CCU",
+        "Vino CCU",
+        "Bebidas gaseosas CCU"
+      ]
     },
     {
-      "nombre": "Proveedor 3",
-      "direccion": "Dirección del Proveedor 3",
-      "telefono": "Teléfono del Proveedor 3",
-      "productos": ["Producto P", "Producto Q", "Producto R"]
+      "nombre": "Agrosuper",
+      "direccion": "Rancagua, Región de O'Higgins",
+      "telefono": "(72) 224 7000",
+      "productos": [
+        "Carne de pollo Agrosuper",
+        "Carne de cerdo Agrosuper",
+        "Productos de charcutería Agrosuper"
+      ]
     }
 ]
